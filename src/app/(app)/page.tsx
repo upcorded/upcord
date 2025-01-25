@@ -13,7 +13,7 @@ export default function Signin() {
             <div className="space-y-2">
               <h1 className="text-[32px] font-semibold text-zinc-900">Sign In</h1>
               <div className="flex items-center space-x-2 text-sm">
-                <span className="text-zinc-500">New to Unkey?</span>
+                <span className="text-zinc-500">New to Upcord?</span>
                 <Link href="#" className="text-zinc-900 hover:text-zinc-700 transition-colors">
                   Create new account
                 </Link>
